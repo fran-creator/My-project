@@ -2,11 +2,11 @@
 Building AI course project
 # Titolo del progetto
 
-Progetto finale per il corso Building AI
+Interaction with rurality
 
 ## Sommario
 
-Descrivi brevemente in 2-3 frasi di cosa tratta il tuo progetto. Circa 250 caratteri sono una bella lunghezza!
+Un ambiente come una cabina(common good car)per rispondere a richieste per disservizi 
 
 
 ## Sfondo
@@ -19,10 +19,7 @@ Ecco come creare una lista, se ne hai bisogno:
 * eccetera.
 
 
-## Come viene utilizzato?
-
-Descrivi il processo di utilizzo della soluzione. In che tipo di situazioni è necessaria la soluzione (ambiente, tempo, ecc.)? Chi sono gli utenti, che tipo di esigenze dovrebbero essere prese in considerazione?
-
+## Come viene utilizz
 Le immagini renderanno piacevole il tuo README!
 Una volta caricata un'immagine nel tuo repository, puoi collegarla ad essa in questo modo (sostituisci l'URL con il percorso del file, se hai caricato un'immagine su Github).
 ! [Gatto] (https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
